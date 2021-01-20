@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shahaabportfolio/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/shahaabportfolio/static/js/main.c4c75ef8.chunk.js",
+    "main.js.map": "/shahaabportfolio/static/js/main.c4c75ef8.chunk.js.map",
+    "runtime-main.js": "/shahaabportfolio/static/js/runtime-main.0e24d7e6.js",
+    "runtime-main.js.map": "/shahaabportfolio/static/js/runtime-main.0e24d7e6.js.map",
+    "static/js/2.0f9f79a6.chunk.js": "/shahaabportfolio/static/js/2.0f9f79a6.chunk.js",
+    "static/js/2.0f9f79a6.chunk.js.map": "/shahaabportfolio/static/js/2.0f9f79a6.chunk.js.map",
+    "index.html": "/shahaabportfolio/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/shahaabportfolio/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.0f9f79a6.chunk.js.LICENSE.txt": "/shahaabportfolio/static/js/2.0f9f79a6.chunk.js.LICENSE.txt",
+    "static/media/projnewsletter.93c74a73.png": "/shahaabportfolio/static/media/projnewsletter.93c74a73.png",
+    "static/media/projsurveyform.a75844e1.png": "/shahaabportfolio/static/media/projsurveyform.a75844e1.png",
+    "static/media/projtodolist.53f0397f.png": "/shahaabportfolio/static/media/projtodolist.53f0397f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e24d7e6.js",
+    "static/js/2.0f9f79a6.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.c4c75ef8.chunk.js"
+  ]
+}
