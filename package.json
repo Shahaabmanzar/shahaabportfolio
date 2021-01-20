@@ -2,7 +2,7 @@
   "name": "shahaab-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://shahaabmanzar.github.io/shahaabportfolio",
+  "homepage":"https://shahaabmanzar.github.io/shahaabportfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
